@@ -1,6 +1,6 @@
 
 # project
-a college project
+a college projectzxxz
 This a simple  landing page of colour slecting website , In this project i used scroll effect to make it more attractive 
  
  HOME PAGE
